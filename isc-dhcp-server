@@ -1,0 +1,2 @@
+# Only want to config isc-dhcp-server for eth1 (internal server)
+INTERFACES="eth1"
